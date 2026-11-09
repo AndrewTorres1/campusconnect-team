@@ -25,5 +25,4 @@ CampusConnect is a fictional campus event finder that helps students discover up
 - Torres, Andrew C.
 - Valdez, Angel Mae
 - Sandoval, Mc Allen
-- Giba, Christopher
-- Gilo, Kyle
+
