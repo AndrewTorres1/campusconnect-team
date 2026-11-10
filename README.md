@@ -1,8 +1,10 @@
 # CampusConnect
 
-## Project Overview
+## Project Overview - Torres
 
-CampusConnect is a fictional campus event finder that helps students discover upcoming school events, activities, seminars, and programs happening around their campus.
+CampusConnect is a fictional campus event finder platform designed to help students stay updated with school activities and upcoming events. It provides a convenient way for students to discover seminars, workshops, school celebrations, competitions, and other campus-related activities.
+
+The main goal of CampusConnect is to make finding and accessing information about school events easier and more convenient. Through this platform, students can explore available events, check important details such as dates, times, and locations, and stay connected with their campus community.
 
 ## Features
 
@@ -20,9 +22,9 @@ CampusConnect is a fictional campus event finder that helps students discover up
 4. Select an event to view its details.
 5. Check the event date, time, and location.
 
-## Team Members
+## Team Members - Torres
 
-- Torres, Andrew C.
-- Valdez, Angel Mae
-- Sandoval, Mc Allen
+- Torres, Andrew C.    Project Overview/Team Members
+- Valdez, Angel Mae    
+- Sandoval, Mc Allen   
 
