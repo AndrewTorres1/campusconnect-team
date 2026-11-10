@@ -27,5 +27,5 @@ The main goal of CampusConnect is to make finding and accessing information abou
 
 - Torres, Andrew C.    Project Overview/Team Members
 - Valdez, Angel Mae    Features
-- Sandoval, Mc Allen   
+- Sandoval, Mc Allen   How to Use
 
