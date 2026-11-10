@@ -6,13 +6,14 @@ CampusConnect is a fictional campus event finder platform designed to help stude
 
 The main goal of CampusConnect is to make finding and accessing information about school events easier and more convenient. Through this platform, students can explore available events, check important details such as dates, times, and locations, and stay connected with their campus community.
 
-## Features
+## Features - Valdez
 
 - Browse upcoming campus events.
 - Search for events by category.
 - View event dates, times, and locations.
 - Discover school activities and announcements.
 - Keep students updated about campus happenings.
+  
 
 ## How to Use
 
