@@ -15,13 +15,14 @@ The main goal of CampusConnect is to make finding and accessing information abou
 - Keep students updated about campus happenings.
   
 
-## How to Use
+## How to Use - Sandoval
 
 1. Open CampusConnect.
-2. Browse the list of available campus events.
-3. Search for an event using its name or category.
-4. Select an event to view its details.
-5. Check the event date, time, and location.
+2. log in or register your account.
+4. Browse the list of available campus events.
+5. Search for an event using its name or category.
+6. Select an event to view its details.
+7. Check the event date, time, and location.
 
 ## Team Members - Torres
 
